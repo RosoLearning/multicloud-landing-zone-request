@@ -1,51 +1,23 @@
-
-apiVersion: scaffolder.backstage.io/v1beta3
-# https://backstage.io/docs/features/software-catalog/descriptor-format#kind-template
-kind: Template
+apiVersion: backstage.io/v1alpha1
+kind: Component
 metadata:
-  name: generated-example-template
-  title: Request Azure Subscription
-  description: An example template for the scaffolder
+  name: backstage
+  description: |
+    Backstage is an open-source developer portal that puts the developer experience first.
+  links:
+    - title: Request Azure Subscription
+      url: http://backstage.io
+    - title: Documentation
+      url: https://backstage.io/docs
+    - title: Storybook
+      url: https://backstage.io/storybook
+    - title: Discord Chat
+      url: https://discord.com/invite/EBHEGzX
+  annotations:
+    github.com/project-slug: backstage/backstage
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
 spec:
-  owner: user:guest
-  type: service
-  # These parameters are used to generate the input form in the frontend, and are
-  # used to gather input data for the execution of the template.
-  parameters:
-    - title: Fill in some steps
-      required:
-        - name
-      properties:
-        name:
-          title: Name
-          type: string
-          description: Unique name of the component
-        owner:
-          title: Owner
-          type: string
-          description: Owner of the component
-          ui:field: OwnerPicker
-          ui:options:
-            catalogFilter:
-              kind: Group
-    - title: Choose a location
-      required:
-        - repoUrl
-      properties:
-        repoUrl:
-          title: Repository Location
-          type: string
-          ui:field: RepoUrlPicker
-          ui:options:
-            allowedHosts:
-              - github.com
-  steps:
-    - id: fetch-base
-      name: Fetch Base
-      action: fetch:template
-      input:
-        url: ./skeleton
-        values:
-          name: ${{parameters.name}}
-          owner: ${{parameters.owner}}
-          destination: ${{ parameters.repoUrl | parseRepoUrl }}
+  type: library
+  owner: CNCF
+  lifecycle: production
