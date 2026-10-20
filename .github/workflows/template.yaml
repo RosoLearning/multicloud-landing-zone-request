@@ -4,7 +4,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: generated-example-template
-  title: Scaffolder Example Template
+  title: Request Azure Subscription
   description: An example template for the scaffolder
 spec:
   owner: user:guest
