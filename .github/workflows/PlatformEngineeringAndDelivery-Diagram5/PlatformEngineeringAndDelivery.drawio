@@ -1,0 +1,154 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="UPkbRMMJmmRd7PVai03-">
+    <mxGraphModel dx="2091" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-5" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="130" width="240" x="-165" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-2" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.automation;fillColor=none;strokeColor=none;" value="Platform Engineer" vertex="1">
+          <mxGeometry height="70" width="72.16" x="-15" y="70.7" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-3" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.personalization;fillColor=none;strokeColor=none;" value="Developer" vertex="1">
+          <mxGeometry height="63.4" width="84.53" x="-145" y="76.6" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-8" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-4" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal" value="Backstage / Developer portal" vertex="1">
+          <mxGeometry height="120" width="140" x="-125" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-12" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-7" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.template;fillColor=#759C3E;gradientColor=none;" value="Approved software template" vertex="1">
+          <mxGeometry height="100" width="100" x="-105" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-9" parent="1" style="image;sketch=0;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/mscae/Service_Catalog_Managed_Application_Definitions.svg;points=[[0.5,0,0],[0.511,1,0],[0,0.519,0],[1,0.46,0],[1,0,0],[0.933,1,0],[0.088,1,0],[0.019,0.1,0]];" value="Backstage catalog and ownership" vertex="1">
+          <mxGeometry height="100" width="94" x="115" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-10" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="qi_quGe2XKnTAdK-oVPh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-15" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-11" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" value="GitHub repository" vertex="1">
+          <mxGeometry height="112.4" width="117" x="-122" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-17" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-13" parent="1" style="shape=mxgraph.atlassian2.icon;html=1;aspect=fixed;strokeColor=none;labelBackgroundColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;atlassian2Icon=mxgraph.atlassian2.object_pull_request;tileColor=#4BCE97;fillColor=#292A2E;" value="Pull request / code review" vertex="1">
+          <mxGeometry height="94" width="94" x="-105" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-14" parent="1" style="shape=mxgraph.atlassian2.icon;html=1;aspect=fixed;strokeColor=none;labelBackgroundColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;atlassian2Icon=mxgraph.atlassian2.object_code;tileColor=#C97CF4;fillColor=#292A2E;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-68" y="877" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-16" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=secret" value="Secret scanning / SAST /dependency checks" vertex="1">
+          <mxGeometry height="90.24" width="94" x="-109" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-27" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-125" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-18" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Workflow.svg;points=[[0.499,0,0],[0.501,1,0],[0.095,0.5,0],[0.905,0.5,0],[0.663,0.015,0],[0.997,0.877,0],[0.006,0.88,0],[0.335,0.013,0]];" value="Infrastructure workflow" vertex="1">
+          <mxGeometry height="100" width="97.14" x="-295" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-19" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qi_quGe2XKnTAdK-oVPh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-28" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-21" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/other/Azure_Deployment_Environments.svg;points=[[0.512,0,0],[0.5,1,0],[0.036,0.5,0],[0.969,0.5,0],[0.697,0.068,0],[0.985,0.997,0],[0.015,0.997,0],[0.11,0.25,0]];" value="Application CI workflow" vertex="1">
+          <mxGeometry height="100" width="104.17" x="5" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-22" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qi_quGe2XKnTAdK-oVPh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-37" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-23" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Versions.svg;points=[[0.429,0.003,0],[0.571,0.997,0],[0,0.5,0],[1,0.5,0],[0.842,0.006,0],[0.987,0.994,0],[0.158,0.994,0],[0.01,0.008,0]];" value="Versioned Bicep modules" vertex="1">
+          <mxGeometry height="80" width="82.67" x="-385" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-24" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="qi_quGe2XKnTAdK-oVPh-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-33" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-25" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.federation_service;" value="GitHub OIDC federation" vertex="1">
+          <mxGeometry height="90.24" width="104.17" x="-145" y="1369.9999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-29" parent="1" style="fillColor=#ffffff;strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" value="" vertex="1">
+          <mxGeometry height="70" width="174" x="35" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-30" parent="qi_quGe2XKnTAdK-oVPh-29" style="editableCssRules=.*;html=1;fontColor=#999999;shape=image;verticalLabelPosition=middle;verticalAlign=middle;labelPosition=right;align=left;spacingLeft=20;part=1;points=[];imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIxLjk5OTAwMDU0OTMxNjQwNiIgaGVpZ2h0PSIyMC4zOTM5OTkwOTk3MzE0NDUiIHZpZXdCb3g9IjAgMCAyMS45OTkwMDA1NDkzMTY0MDYgMjAuMzkzOTk5MDk5NzMxNDQ1Ij4mI3hhOwk8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbDojNDI4NWY0O2ZpbGwtcnVsZTpldmVub2RkfSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTUgMHYyLjQ1OEwxLjk5OSA0LjE5N3YxMi4wMUw1IDE3LjkzOHYyLjQ1NmwtNS0yLjg4N1YyLjg4NnptMTIgMGw0Ljk5OSAyLjg4NnYxNC42MjFMMTcgMjAuMzk0di0yLjQ1NmwzLTEuNzMxVjQuMTk3bC0zLTEuNzM5em0tNi4wMTYgNi42NzNsMi45NDctMS42NDYtMi45NDctMS42NDYtMi45NDcgMS42NDZ6bTMuMjY4LTEuMDk2bC0yLjg3MSAxLjY3OHYzLjI4N2wyLjg3MS0xLjY3NnpNNy43NzMgOC44NjZsMi44NzEgMS42NzRWNy4yNTZMNy43NzMgNS41Nzd6bS0uMjEyIDMuODc4bDIuODItMS42NDYtMi44Mi0xLjY0Ni0yLjgyIDEuNjQ2em0zLjEzMi0xLjA5OGwtMi44NzEgMS42Nzh2My4yODdsMi44NzEtMS42NzZ6bS02LjI2NCAzLjI4OUw3LjMgMTYuNjA5di0zLjI4NWwtMi44NzEtMS42Nzl6bTEwLjAyOS0yLjE5MWwyLjgyLTEuNjQ2LTIuODItMS42NDYtMi44MiAxLjY0NnptMy4xMzItMS4wOThsLTIuODcxIDEuNjc4djMuMjg3bDIuODcxLTEuNjc2em0tNi4yNjQgMy4yODlsMi44NzEgMS42NzR2LTMuMjg1bC0yLjg3MS0xLjY3OXoiLz4mI3hhOzwvc3ZnPg==;" value="Artifact /&amp;nbsp;&lt;div&gt;container&lt;/div&gt;&lt;div&gt;registry if required&lt;/div&gt;" vertex="1">
+          <mxGeometry height="27" relative="1" width="30" as="geometry">
+            <mxPoint x="15" y="16.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-31" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qi_quGe2XKnTAdK-oVPh-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-32" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/other/Entra_Identity.svg;points=[[0.5,0,0],[0.5,1,0],[0.064,0.5,0],[0.936,0.5,0],[0.98,0.679,0],[0.02,0.679,0]];" value="Microsoft Entra deployment identity" vertex="1">
+          <mxGeometry height="100" width="112.51" x="-153.34000000000003" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="120" width="231.17" x="-495" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-34" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;points=[[0.459,0.003,0],[0.465,0.998,0],[0,0.499,0],[1,0.499,0],[0.986,0.208,0],[0.984,0.79,0],[0,0.75,0],[0,0.248,0]];" value="" vertex="1">
+          <mxGeometry height="70" width="65.63" x="-479.90999999999997" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-35" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;" value="" vertex="1">
+          <mxGeometry height="80" width="94" x="-372.90999999999997" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-40" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-45" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Azure Policy / RBAC /deployment validation" vertex="1">
+          <mxGeometry height="30" width="241.17" x="-500" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-39" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/management_governance/Landing_Zone.svg;points=[[0.516,0,0],[0.5,1,0],[0,0.454,0],[1,0.5,0],[0.738,0.1,0],[0.836,1,0],[0.169,1,0],[0.058,0.29,0]];" value="Development landing zone" vertex="1">
+          <mxGeometry height="112.98" width="112.51" x="-465" y="1830" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-41" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.516;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qi_quGe2XKnTAdK-oVPh-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-44" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qi_quGe2XKnTAdK-oVPh-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-42" parent="1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.production_site;" value="Protected production environment" vertex="1">
+          <mxGeometry height="90.24" width="140" x="195" y="1830" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-43" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/management_governance/Landing_Zone.svg;points=[[0.516,0,0],[0.5,1,0],[0,0.454,0],[1,0.5,0],[0.738,0.1,0],[0.836,1,0],[0.169,1,0],[0.058,0.29,0]];" value="Production landing zone" vertex="1">
+          <mxGeometry height="112.97" width="112.51" x="212.08000000000004" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-46" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.94;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qi_quGe2XKnTAdK-oVPh-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi_quGe2XKnTAdK-oVPh-47" edge="1" parent="1" source="qi_quGe2XKnTAdK-oVPh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.738;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="qi_quGe2XKnTAdK-oVPh-39">
+          <mxGeometry relative="1" x="-0.007" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="1240" />
+              <mxPoint x="285" y="1820" />
+              <mxPoint x="-382" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
